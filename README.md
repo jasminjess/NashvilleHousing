@@ -1,1 +1,1 @@
-Cleaning of Nashville Housing dataset using Sql
+Cleaning Nashville Housing dataset using Sql
